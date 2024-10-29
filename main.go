@@ -86,4 +86,5 @@ func main() {
 	// Use the car object with the chosen configuration.
 	// ...
 	fmt.Println(myCar)
+	//
 }
